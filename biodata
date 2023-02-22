@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.full {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+    background: rgb(127, 167, 208);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
